@@ -5,7 +5,7 @@ The main code is in the `src` subfolder.
 
 ## Quickstart
 
-To demo the app run `npm run demo`. This will run a [demo server on port 3000](http://localhost:3000), use [localhost](http://localhost:3000)to see it.
+To demo the app run `npm run demo`. This will run a [demo server on port 3000](http://localhost:3000), use [localhost](http://localhost:3000) to see it.
 
 ## Testing
 
