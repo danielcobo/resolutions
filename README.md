@@ -1,9 +1,24 @@
-# resolutions
+# Resolutions
 
+Small app for demo purposes.
 The main code is in the `src` subfolder.
 
-## Terminal commands
+## Quickstart
 
-- To preview run `npm start`
-- To test run `npm test`
-- To build an optimized version in the `build` subfolder run `npm run build`
+To demo the app run `npm run demo`. This will run a [demo server on port 3000](http://localhost:3000), use [localhost](http://localhost:3000)to see it.
+
+## Testing
+
+To run example tests use the command `npm run test`.
+
+## Stack:
+
+- Frontend:
+  - React
+  - Zustand
+  - Webpack
+  - TypeScript
+- Backend
+  - NodeJS
+  - Express
+  - Nodemon

@@ -1,2 +1,2 @@
-import New from './New'
-export default New
+import New from './New';
+export default New;
